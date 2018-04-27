@@ -22,5 +22,7 @@ And if you use the code for your research, please cite our paper:
             year={2017},
             publisher={Springer}
     }
+    
+**Note**: (1) Please download the pre-trained model and well-trained models via https://drive.google.com/open?id=1249Emu4ol3TuF99EtWZohMEW4LNMeosp;
+(2) Implementation by **Caffe** can be found here: https://github.com/seuliufeng/DeepSBIR.
 
-**Note**: Implementation by **Caffe** can be found here: https://github.com/seuliufeng/DeepSBIR
