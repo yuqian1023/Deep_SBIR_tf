@@ -1,5 +1,5 @@
 # Deep_SBIR_tf
-Implementation of 'Sketch Me That Shoe' and 'Deep Spatial-Semantic Attention for Fine-grained Sketch-based Image Retrieval'
+Implementation of **Sketch Me That Shoe** and **Deep Spatial-Semantic Attention for Fine-grained Sketch-based Image Retrieval**
 
 And if you use the code for your research, please cite our paper:
 
