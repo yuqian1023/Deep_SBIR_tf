@@ -234,7 +234,8 @@ def main(subset, sketch_dir, image_dir, sketch_dir_te, image_dir_te, triplet_pat
 
 
 if __name__ == '__main__':
-    net_model = 'deep_sbir'  # 'deep_sbir' or 'DSSA'
+    # 'deep_sbir'(the model of cvpr16) or 'DSSA'(the model of iccv17)
+    net_model = 'deep_sbir'  
     subset = 'shoes'
     mean = 250.42
     hard_ratio = 0.75
