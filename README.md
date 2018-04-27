@@ -23,4 +23,4 @@ And if you use the code for your research, please cite our paper:
             publisher={Springer}
     }
 
-**Implementation by Caffe can be found here: https://github.com/seuliufeng/DeepSBIR
+**Note**: Implementation by **Caffe** can be found here: https://github.com/seuliufeng/DeepSBIR
